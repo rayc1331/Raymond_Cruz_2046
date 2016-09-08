@@ -1,0 +1,9 @@
+Company Name: Rebel Studio
+Locations: 1
+Employees: 2
+Purpose: Mobile app developing for businesses (and support for apps)
+Gross annual revenue:120000
+Transactions: App developing fees and maintanance fees
+How many a day: 1 to 2
+
+
