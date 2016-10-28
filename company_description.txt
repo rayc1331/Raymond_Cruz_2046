@@ -1,6 +1,7 @@
 Company Name: Rebel Studio
-Locations: 1
-Employees: 2
+Locations: 1 office (downtown Brooklyn)
+Employees: 7 (3 programmers, 2 graphic designers, 1 account manager, 1 project manager)
+logic for number of employees: 
 Purpose: Mobile app developing for businesses (and support for apps)
 Gross annual revenue:120000
 Transactions: App developing fees and maintanance fees
