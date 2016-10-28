@@ -1,10 +1,12 @@
 Company Name: Rebel Studio
 Locations: 1 office (downtown Brooklyn)
-Employees: 7 (3 programmers, 2 graphic designers, 1 account manager, 1 project manager)
-logic for number of employees: 
-Purpose: Mobile app developing for businesses (and support for apps)
-Gross annual revenue:120000
-Transactions: App developing fees and maintanance fees
-How many a day: 1 to 2
-
-
+Employees: 10 (5 programmers, 3 graphic designers, 1 account manager, 1 project manager)
+logic for number of employees: Minimal amount of employees needed for small scale business
+How do you generate revenue: This is a mobile app developing company with an app that will aid local startup clothing companies to sell and market their products via the app and personalize their pages and it charges clients for initial startup fee and monthly maintanence/update fees
+Gross annual revenue:$1,000,000
+Transactions: Each client is billed a minimum of 200 dollars per account (depending on size and features) and 70 a month to maintain account on app and for 24/7 trouble shooting and updating (larger updates may require extra fees (100 dollar minimum))
+Transactions per day:5 to 8 new clients a day, 10 to 20 monthly fee transactions a day (Can vary depending on when accounts went live) 3 to 5 updates a day
+Logic behind estimate: transactions based of estimated average amount of clients that will be billed monthly and will have regular updates
+Throughput: 70,000 bytes per second
+The clients of my company are local up and coming clothing brands
+Our suppliers are the clients themselves
