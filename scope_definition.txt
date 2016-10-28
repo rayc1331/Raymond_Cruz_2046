@@ -1,3 +1,5 @@
 A transaction processing system is being designed
 The company needs it in order to aid clients to sell their products
 To design, implement and install it will take 4 to 5 months
+The above will cost 65,000 dollars
+10 people will be needed to carry out everything
