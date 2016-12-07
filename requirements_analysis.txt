@@ -1,26 +1,26 @@
 21. 
-One functional requirement for the client (clothing buyers) is database of different brands, where they are located and info about them
+One functional requirement for the client (clothing buyers) is view of different brands, where they are located and info about them
 
-another requirement is a view of their inventories so that the clients can purchase
+another requirement is a view of their inventories so that the clients can purchase from them
 
-another requirement is a review system so that the customers can add feed back
+another requirement is a review system so that the customers can add feed back with a rating system and comments, and these are stored and made available to all users
 
 22.
 One functional requirement for the supplier (clothing brand) is to be able to market their company through the app (themes, pictures, videos)
 
-another requirement is to allow an area for the companies to be able to sell their clothing
+another requirement is to allow an area for the companies to be able to present their inventories 
 
-another requirement is a locator so that customers can know where to find that brand's headquarters
+another requirement is an area where they can establish their personal information such as location
 
 23.
 A functional requirement for admins is a message board to be able to interact with brands and their customers and recieve feedback
 
-another requirement is an interface that allows an admin to assist on any troubleshooting
+another requirement is an interface that allows an admin to assist on any troubleshooting with customers and or the brands
 
 another requirement is a login system for the admins along with their own personal interface
 
 24.
-The app itself will also require a review system to send feedback to the developing company
+The app itself will also require a review system to send feedback to the app developing company that created and administers it
 
 another requirement is a contact number and email where clients and suppliers can voice their concerns
 
