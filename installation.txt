@@ -1,3 +1,9 @@
-  This system is a transaction system that will be used by local startup clothing brands to sell/market/and gain feedback on their inventory.
+This system is a transaction system that will be used by local startup clothing brands to sell/market/and gain feedback on their inventory.
 The users will be able to browse different brands in defferent locations and view their inventory.
 The users can then make purchases on any items available.
+The users can leave comments and star ratings (1-5 stars) on products and brands.
+Each brand will have their own admins that will run their page.
+The brand will be able to market and edit the products on their front page and inventory page however they please.
+Admins will answer and troubleshoot any brand related issues and questions to the user.
+The employees of the app developer will trouble shoot any internal issues that are brought to their attention either by the brand admins or users.
+App functions will also have a review and comment section to provide feed back for the developer.
