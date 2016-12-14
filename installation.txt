@@ -1,2 +1,3 @@
   This system is a transaction system that will be used by local startup clothing brands to sell/market/and gain feedback on their inventory.
-The users will be able to browse different brands in defferent locations and view their inventory. The users can then make purchases on any items available.
+The users will be able to browse different brands in defferent locations and view their inventory.
+The users can then make purchases on any items available.
