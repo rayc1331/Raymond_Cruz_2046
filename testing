@@ -1,0 +1,10 @@
+Try to buy multiple items even if it exceeds number of items in stock
+Try and use multiple payment methods
+input invalid payment methods
+input invalid shipping and billing address
+try and order an empty cart
+try and stop an order shortly after making it
+as the seller, try and input multiple entries of same item
+try an actual valid transaction
+submit questions to admin to see if troubleshooting system works properly
+try returning items
